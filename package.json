@@ -1,0 +1,16 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.1.13",
+    "selenium-server": "^3.141.59"
+  }
+}
